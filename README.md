@@ -1,2 +1,2 @@
 # my-youtube
-website for laptop (firefox browser)
+website made of html and css for laptop (firefox browser)
